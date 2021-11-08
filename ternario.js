@@ -2,9 +2,9 @@ const idadeMinima = 18;
 const idadeCliente = 19;
 
 // if (idadeCliente >= idadeMinima) {
-//    console.log("cerveja")
+//    console.log("Pode dirigir")
 // } else {
-//    console.log("suco")
+//    console.log("Ainda não pode dirigir")
 // }
 
-console.log(idadeCliente >= idadeMinima ? "cerveja" : "suco")
+console.log(idadeCliente >= idadeMinima ? "Pode dirigir" : "Ainda não pode dirigir")
